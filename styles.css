@@ -84,7 +84,7 @@ body
 
 .dropdown-content a:hover
 {
-  background-color: #ddd;
+  background-color: black;
 }
 
 .dropdown:hover .dropdown-content
